@@ -58,7 +58,7 @@ avatar: "/img/profilepic.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: David Carlson
+  name: Andrei Lunevich
   email: "David.Carlson2012@gmail.com"
   github: David-Carlson    # eg. daattali
   linkedin: david-sylvernale-carlson  # eg. daattali
